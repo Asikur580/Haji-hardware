@@ -108,7 +108,7 @@
         </section>
 
         <footer class="py-5 bg-light">
-            <div class="container text-center pb-5 border-bottom">
+            <div class="container text-center">
                 <a class="d-inline-block mx-auto mb-4" href="#">
                     <img class="img-fluid"src="{{asset('/images/logo.png')}}" alt="" width="96px">
                 </a>
@@ -136,10 +136,10 @@
                     </a>
                 </div>
             </div>
-            <div class="mb-5"></div>
-            <div class="container">
-                <p class="text-center">All rights reserved © Learn with Rabbil (LWR) 2023-2024</p>
-            </div>
+            <!-- <div class="mb-5"></div> -->
+            <!-- <div class="container">
+                <p class="text-center">All rights reserved by </p>
+            </div> -->
         </footer>
 
 @endsection
